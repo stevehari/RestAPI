@@ -12,4 +12,14 @@ public class App
         
 System.out.println("src/test/java/RestAssuredProject/AppTest.java");
     }
+    
+    public void APItest()
+    {
+    	System.out.println("hi hello from Agenet Vikram");
+    }
+    
+    public void JiraTest()
+    {
+    	System.out.println("Hello");
+    }
 }
