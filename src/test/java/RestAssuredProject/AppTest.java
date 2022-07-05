@@ -24,5 +24,9 @@ public class AppTest
     	System.out.println("check");
     	System.out.println("check 2");
     	System.out.println("ceck 3");
+    	
+    	System.out.println("ceck 4");
+    	System.out.println("ceck 5");
+    	System.out.println("ceck 6");
     }
 }
