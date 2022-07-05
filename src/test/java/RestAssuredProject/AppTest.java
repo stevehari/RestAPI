@@ -17,4 +17,12 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    @Test
+    public void testing()
+    {
+    	System.out.println("check");
+    	System.out.println("check 2");
+    	System.out.println("ceck 3");
+    }
 }
