@@ -22,4 +22,9 @@ System.out.println("src/test/java/RestAssuredProject/AppTest.java");
     {
     	System.out.println("Hello");
     }
+    
+    public void framworkFinal()
+    {
+    	System.out.println("achiko yakomoto");
+    }
 }
