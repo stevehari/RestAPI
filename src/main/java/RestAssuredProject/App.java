@@ -26,5 +26,9 @@ System.out.println("src/test/java/RestAssuredProject/AppTest.java");
     public void framworkFinal()
     {
     	System.out.println("achiko yakomoto");
+    	
+    	System.out.println("party hard");
     }
+    
+   
 }
